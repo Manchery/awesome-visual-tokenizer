@@ -21,13 +21,13 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 - Tang, A., He, T., Guo, J., Cheng, X., Song, L., & Bian, J.  [VidTok: A Versatile and Open-Source Video Tokenizer](https://doi.org/10.48550/arXiv.2412.13061). arXiv, 2024. 
 - Wang, X., Zhang, X., Luo, Z., Sun, Q., Cui, Y., Wang, J., Zhang, F., Wang, Y., Li, Z., Yu, Q., Zhao, Y., Ao, Y., Min, X., Li, T., Wu, B., Zhao, B., Zhang, B., Wang, L., Liu, G., … Wang, Z.  [Emu3: Next-Token Prediction is All You Need](https://doi.org/10.48550/arXiv.2409.18869). arXiv, 2024. 
 - Weber, M., Yu, L., Yu, Q., Deng, X., Shen, X., Cremers, D., & Chen, L.-C.  [MaskBit: Embedding-free Image Generation via Bit Tokens](https://arxiv.org/abs/2409.16211v1). TMLR, 2024.
-- [NVIDIA/Cosmos-Tokenizer](NVIDIA/Cosmos-Tokenizer)
-- [Hpcaitech/Open-Sora](Hpcaitech/Open-Sora)
+- [NVIDIA/Cosmos-Tokenizer](https://github.com/NVIDIA/Cosmos-Tokenizer)
+- [Hpcaitech/Open-Sora](https://github.com/Hpcaitech/Open-Sora)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
-- [THUDM/CogVideo](THUDM/CogVideo)
-- [CompVis/taming-transformers](CompVis/taming-transformers)
-- [openai/consistencydecoder](openai/consistencydecoder)
-- [lucidrains/vector-quantize-pytorch](lucidrains/vector-quantize-pytorch)
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo)
+- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)
+- [openai/consistencydecoder](https://github.com/openai/consistencydecoder)
+- [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch)
 
 ## Analysis
 
