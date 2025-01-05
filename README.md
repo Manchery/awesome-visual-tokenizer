@@ -32,3 +32,9 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 ## Analysis
 
 - Chan, D. M., Corona, R., Park, J., Cho, C. J., Bai, Y., & Darrell, T.  [Analyzing The Language of Visual Tokens](http://arxiv.org/abs/2411.05001). arXiv, 2024. 
+
+## Star History
+
+Give it a star 🌟 if you find this project useful.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Manchery/awesome-visual-tokenizer&type=Date)](https://star-history.com/#Manchery/awesome-visual-tokenizer&Date)
