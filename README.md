@@ -1,6 +1,6 @@
 # Awesome Visual Tokenizers [WIP🚧]
 
-A curated list of resources on visual tokenizers.
+A curated list of resources on visual tokenizers (primarily for visual generation).
 
 We welcome your contributions! If you find any mistakes or omissions, please let us know.
 
